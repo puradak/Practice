@@ -29,7 +29,7 @@ public class Tester implements Serializable{
 		} catch ( IOException e) {
 			e.printStackTrace();
 		}
-		
+		 
 		input.close();
 	}
 
