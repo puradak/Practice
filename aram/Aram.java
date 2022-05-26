@@ -322,7 +322,7 @@ public class Aram {
 		frame.setType(Type.UTILITY);
 		frame.setTitle("\uC2DC\uAC04\uD45C");
 		frame.setBounds(100, 100, 500, 310);
-		
+		 
 		frame.setVisible(true);
 	}
 	
